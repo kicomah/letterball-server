@@ -1,0 +1,30 @@
+{
+  "name": "letterball",
+  "version": "1.0.0",
+  "description": "A blog/micro-blog platform that makes use of guided raw markdown",
+  "main": "index.js",
+  "engine": {
+    "node": ">=12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kicomah/letterball.git"
+  },
+  "keywords": [
+    "blog",
+    "micro-blog",
+    "markdown"
+  ],
+  "author": "kicomah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kicomah/letterball/issues"
+  },
+  "homepage": "https://github.com/kicomah/letterball#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
